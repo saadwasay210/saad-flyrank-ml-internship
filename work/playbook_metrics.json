@@ -1,0 +1,13 @@
+{
+  "total_pages_scored": 140599,
+  "tier_counts": {
+    "No Action": 98419,
+    "Monitor": 28120,
+    "Immediate Refresh": 14060
+  },
+  "precision_at_200": 0.92,
+  "base_rate": 0.5385,
+  "actionable_pages": 42180,
+  "actionable_pages_flagged_for_review": 23060,
+  "console_coverage_pct": 36.7
+}
